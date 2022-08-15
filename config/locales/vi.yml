@@ -1,0 +1,4 @@
+vi:
+  hello: "Xin chào nha"
+  message:
+    create_success: "Tạo %{name} thành công."
